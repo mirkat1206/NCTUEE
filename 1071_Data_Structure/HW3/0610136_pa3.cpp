@@ -220,11 +220,3 @@ ofstream &operator<<(ofstream &output, Polynomial &p){
 
 	return output ;		// enable cascading
 }
-
-
-
-
-
-
-
-
