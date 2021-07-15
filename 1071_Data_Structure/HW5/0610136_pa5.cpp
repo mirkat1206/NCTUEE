@@ -322,7 +322,3 @@ void show_map(ofstream &out)
 	}
 	out << endl;
 }
-
-
-
-
