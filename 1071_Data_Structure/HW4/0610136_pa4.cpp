@@ -281,10 +281,3 @@ TreeNode* Tree::SearchByRank(ofstream &out, int k){
 	}
 	return NULL ;
 }
-
-
-
-
-
-
-
